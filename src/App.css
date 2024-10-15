@@ -49,4 +49,9 @@
   font-weight: bold;
 }
 
-
+/* To change color, font family and font size */
+.e-toast-container .e-toast .e-toast-message .e-toast-content {
+  color: aqua;
+  font-size: 13px;
+  font-weight: normal;
+}
