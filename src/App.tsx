@@ -20,6 +20,7 @@ function App() {
           title="Sample Toast Title"
           content="Sample Toast Content"
           created={toastCreated}
+          icon="custom-icon"
       />
   );
 };

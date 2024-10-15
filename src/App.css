@@ -55,3 +55,14 @@
   font-size: 13px;
   font-weight: normal;
 }
+
+/* To change icon color */
+.e-toast-container .e-toast .e-toast-icon {
+  color: yellow;
+}
+
+.custom-icon {
+  background-image: url('pumpkin.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
